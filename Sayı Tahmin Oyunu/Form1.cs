@@ -43,7 +43,7 @@ namespace Sayı_Tahmin_Oyunu
                 }
                 else
                 {
-                    MessageBox.Show("Doğru Tahmin Tebrikler" + label6.Text + ". denemede buldunuz." + label7.Text + "puanınız.");
+                    MessageBox.Show("Doğru Tahmin Tebriklerr" + label6.Text + ". denemede buldunuz." + label7.Text + "puanınız.");
                     button2.Enabled = true;
                     button1.Enabled = false;
                     tahmin_sayi = 0;
